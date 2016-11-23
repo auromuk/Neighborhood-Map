@@ -1,5 +1,5 @@
 var map;
-var markersArray = [];
+//var markersArray = [];  Why is this necessary?
 
 function loadScript() {
   var script = document.createElement('script');
